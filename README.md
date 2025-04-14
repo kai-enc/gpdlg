@@ -1,4 +1,4 @@
-# GPDLG
+# GPDLG (Put on a stop)
 ## Note: you will still have to download the games before using GPDLG as I dont own the rights to any of Xbox's licenced games
 
 ## What is gpdlg?
